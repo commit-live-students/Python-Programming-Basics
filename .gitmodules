@@ -1,0 +1,3 @@
+[submodule "errors"]
+	path = errors
+url=https://github.com/commit-live-admin/errors.git
