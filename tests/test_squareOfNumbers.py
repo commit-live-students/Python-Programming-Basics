@@ -1,6 +1,5 @@
 from unittest import TestCase
-
-from errors.exceptions import ImportException
+from errors import succeed, incorrect_output, no_function_found
 
 
 class TestSquareOfNumbers(TestCase):
@@ -17,7 +16,10 @@ class TestSquareOfNumbers(TestCase):
                 self.assertEqual(result[6], 36)
                 self.assertEqual(result[7], 49)
                 self.assertEqual(result[8], 64)
+                self.assertTrue(succeed("squareOfNumbers"))
             else:
-                self.assertFalse("Function should return a dict object.")
+                self.assertFalse(incorrect_output())
         except ImportError:
-            self.assertFalse(ImportException.no_function_found("squareOfNumbers"))
+            self.assertFalse(no_function_found("squareOfNumbers"))
+        except AssertionError:
+            self.assertFalse(incorrect_output())
