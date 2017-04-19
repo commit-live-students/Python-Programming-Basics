@@ -37,7 +37,6 @@ After this lesson, you'll be able to
 * [Assignment 3](https://github.com/commit-live-students/fsdse-python-assignment-3)
 * [Assignment 4](https://github.com/commit-live-students/fsdse-python-assignment-4)
 * [Assignment 5](https://github.com/commit-live-students/fsdse-python-assignment-5)
-* [Assignment 6](https://github.com/commit-live-students/fsdse-python-assignment-6)
 
 
 ## Resources & Post Reads
