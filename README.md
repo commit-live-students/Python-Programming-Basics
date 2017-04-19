@@ -1,3 +1,5 @@
+![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/logo.png)
+
 # Python Programming Basics
 
 ## Lets Get Rolling - Student Pre-Read
