@@ -1,4 +1,4 @@
-![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/logo.png)
+![GitHub Logo](https://drive.google.com/file/d/0B8WmaHDUjkDXaWp2S2NURUpXTHc/view?ts=5901e409)
 
 # Python Programming Basics
 
