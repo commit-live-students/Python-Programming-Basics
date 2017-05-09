@@ -1,4 +1,4 @@
-![GitHub Logo](https://drive.google.com/file/d/0B8WmaHDUjkDXaWp2S2NURUpXTHc/view?ts=5901e409)
+![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/GreyAtom-logo.png)
 
 # Python Programming Basics
 
@@ -32,11 +32,11 @@ After this lesson, you'll be able to
 
 
 ## Assignments 
-* [Assignment 1](https://github.com/commit-live-students/fsdse-python-assignment-1)
-* [Assignment 2](https://github.com/commit-live-students/fsdse-python-assignment-2)
-* [Assignment 3](https://github.com/commit-live-students/fsdse-python-assignment-3)
-* [Assignment 4](https://github.com/commit-live-students/fsdse-python-assignment-4)
-* [Assignment 5](https://github.com/commit-live-students/fsdse-python-assignment-5)
+* [Assignment 1](https://app.commit.live/lesson/fsdse-python-assignment-1)
+* [Assignment 2](https://app.commit.live/lesson/fsdse-python-assignment-2)
+* [Assignment 3](https://app.commit.live/lesson/fsdse-python-assignment-3)
+* [Assignment 4](https://app.commit.live/lesson/fsdse-python-assignment-4)
+* [Assignment 5](https://app.commit.live/lesson/fsdse-python-assignment-5)
 
 
 ## Resources & Post Reads
