@@ -4,7 +4,7 @@
 
 ## Lets Get Rolling - Student Pre-Read
 Before this lesson , we recommend you go through
-* [How to think like programmer](https://www.udemy.com/how-to-think-like-a-programmer-with-python/)
+
 * [Getting started with Python](https://www.python.org/about/gettingstarted/)
 * [Developer mindset](https://www.coursera.org/learn/algorithmic-thinking-1)
 
